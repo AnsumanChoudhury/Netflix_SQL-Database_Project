@@ -1,5 +1,5 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
-![]()
+![](https://github.com/AnsumanChoudhury/Netflix_SQL-Database_Project/blob/main/logo.png)
 
 ## 📖 Overview
 This project explores **Netflix's content dataset** using **PostgreSQL**.  
