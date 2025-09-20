@@ -19,7 +19,7 @@ select * from Netflix;
 select count(*) as total_content from Netflix;
 select distinct type from netflix;
 
--- 15 Business Problems based on the data
+-- 14 Business Problems based on the data
 
 -- 1. Count the number of movies vs TV shows
 select type, count(*) as total_count
@@ -148,5 +148,6 @@ count(*) as total_titles
 from Netflix
 group by Content_Category
 Order by total_titles;
+
 
 
